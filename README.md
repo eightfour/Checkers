@@ -1,6 +1,8 @@
 # Checkers
 The popular board game Checkers, made with Unity.
 
+![Checkers](https://github.com/eightfour/Checkers/blob/master/media/screenshot.png?raw=true)
+
 ## Built With
 
 * [Unity](https://unity3d.com/) - Cross-platform game engine
