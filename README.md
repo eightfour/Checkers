@@ -12,7 +12,7 @@ The popular board game Checkers, made with Unity.
 * **[kon4](https://github.com/eightfour)** - *Developer*
 * **[Tom](https://github.com/TomMaier1)** - *Developer*
 * **[Michael](https://gitlab.com/michaelmaier)** - *Developer*
-* **Fabian** - *Developer*
+* **[Fabian](https://github.com/Fabi21)** - *Developer*
 
 ## License
 
